@@ -6,6 +6,9 @@ This project is an interactive **Machine Learning dashboard** built using **Stre
 Users can input patient clinical data and receive a prediction of heart disease risk.  
 The system also provides clustering analysis and explainable AI using **SHAP** to understand model predictions.
 
+## Live Demo
+Open Streamlit App : https://heartdiseaseprediction-route.streamlit.app/
+
 ---
 
 ## Features
